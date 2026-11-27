@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"window.autoDetectColorScheme": true,
+		"workbench.preferredDarkColorTheme": "Smiths & Delvers: Copper Vault (Nostromo Cassette)",
+		"workbench.preferredLightColorTheme": "Hypnotic Copper Metal"
+	}
+}

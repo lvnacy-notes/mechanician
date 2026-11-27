@@ -27,12 +27,13 @@ echo "-------------------"
 check_tool "git" "--version"
 check_tool "curl" "--version"
 check_tool "bash" "--version"
+check_tool "pnpm" "--version"
 
 # Check Volta
-echo "Volta:"
+echo "Mise:"
 echo "------"
-check_tool "volta" "--version"
-echo "Volta home: $VOLTA_HOME"
+check_tool "mise" "--version"
+echo "Mise home: $MISE_HOME"
 echo ""
 
 # Check Node.js
